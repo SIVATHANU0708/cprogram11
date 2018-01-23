@@ -9,5 +9,5 @@ for(i=0;i<=k;i++)
 sum=sum+n[i];
 }
 printf("the sum of k integer is %d",sum);
-retrun 0;
+return 0;
 }
